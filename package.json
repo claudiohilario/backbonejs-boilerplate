@@ -19,7 +19,7 @@
   "homepage": "https://github.com/claudiohilario/backbonejs-boilerplate#readme",
   "dependencies": {
     "backbone": "^1.4.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "normalize.css": "^8.0.1",
     "requirejs": "^2.3.6",
     "underscore": "^1.9.1"
